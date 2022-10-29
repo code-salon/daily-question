@@ -1,1 +1,17 @@
 .DS_Store
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+rebel.xml
+
+.gitignore
+
+#target
+*.class
+target*
