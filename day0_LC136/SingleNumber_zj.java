@@ -32,7 +32,7 @@ public class SingleNumber_zj {
 
     /**
      * 用异或来完成
-     * 所有数异或一遍  假设数为 abccbad =  a^b^c^c^b^a^d = a^a^b^b^c^c^d = d
+     * 所有数异或一遍  假设数为 abccbad 则 a^b^c^c^b^a^d = a^a^b^b^c^c^d = d
      *
      * @param nums
      * @return
