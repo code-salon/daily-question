@@ -1,3 +1,5 @@
+package day0_LC136;
+
 /**
  * @autor yud1
  * @date 2022/10/29 14:16

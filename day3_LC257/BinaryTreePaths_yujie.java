@@ -1,7 +1,5 @@
 package day3_LC257;
 
-import day1_LC108.TreeNode;
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;

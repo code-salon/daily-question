@@ -1,3 +1,5 @@
+package day4_LC121;
+
 /**
  * @autor yud1
  * @date 2022/11/2 14:19
