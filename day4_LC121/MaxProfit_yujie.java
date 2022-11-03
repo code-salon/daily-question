@@ -10,7 +10,7 @@ public class MaxProfit_yujie {
     /**
      * 动态规划解法
      *
-     * dp[i]定义: 如果第i天卖出，能赚的最大金额
+     * dp[i]定义: 截止到第i天，能赚到的最大金额
      * 递推公式: dp[i] = (prices[i] - min) > dp[i-1] ? (prices[i] - min) : dp[i - 1]
      *
      * PS.这里都定义min了，感觉用dp有点牵强
