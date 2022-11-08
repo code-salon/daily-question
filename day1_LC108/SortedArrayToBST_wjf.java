@@ -1,5 +1,7 @@
 package day1_LC108;
 
+import structure.TreeNode;
+
 import java.util.Arrays;
 
 /**

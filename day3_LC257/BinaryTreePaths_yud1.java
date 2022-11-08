@@ -1,4 +1,6 @@
 package day3_LC257;
+import structure.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

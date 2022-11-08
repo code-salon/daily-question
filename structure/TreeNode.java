@@ -1,4 +1,4 @@
-package day1_LC108;
+package structure;
 
 /**
  * @author zhayujie
