@@ -1,4 +1,4 @@
-package day0_LC136;
+package day000_LC136;
 
 /**
  * 136 只出现一次的数字

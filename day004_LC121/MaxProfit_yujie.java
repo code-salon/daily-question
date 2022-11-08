@@ -1,4 +1,4 @@
-package day4_LC121;
+package day004_LC121;
 
 /**
  * 进步抱告 121. 买卖股票的最佳时机

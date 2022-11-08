@@ -1,4 +1,4 @@
-package day5_LC495;
+package day005_LC495;
 
 /**
  * 495. 提莫攻击

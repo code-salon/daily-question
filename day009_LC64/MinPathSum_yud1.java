@@ -1,4 +1,4 @@
-package day9_LC64;
+package day009_LC64;
 
 /**
  * @autor yud1

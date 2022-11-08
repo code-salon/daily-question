@@ -1,4 +1,4 @@
-package day7_LC22;
+package day007_LC22;
 
 import java.util.ArrayList;
 import java.util.List;

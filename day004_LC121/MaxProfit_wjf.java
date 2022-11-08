@@ -1,4 +1,4 @@
-package day4_LC121;
+package day004_LC121;
 
 /**
  * @Classname MaxProfit_wjf

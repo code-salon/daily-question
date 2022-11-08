@@ -1,4 +1,4 @@
-package day5_LC495;
+package day005_LC495;
 /**
  * @autor yud1
  * @date 2022/11/3 11:04

@@ -1,4 +1,4 @@
-package day8_LC34;
+package day008_LC34;
 
 import java.util.Arrays;
 

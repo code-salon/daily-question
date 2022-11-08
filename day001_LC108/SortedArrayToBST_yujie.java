@@ -1,4 +1,4 @@
-package day1_LC108;
+package day001_LC108;
 
 import structure.TreeNode;
 

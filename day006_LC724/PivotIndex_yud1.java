@@ -1,4 +1,4 @@
-package day6_LC724;
+package day006_LC724;
 
 /**
  * @autor yud1

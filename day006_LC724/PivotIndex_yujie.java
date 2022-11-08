@@ -1,4 +1,4 @@
-package day6_LC724;
+package day006_LC724;
 
 /**
  * 进步抱告 724.寻找数组的中心下标

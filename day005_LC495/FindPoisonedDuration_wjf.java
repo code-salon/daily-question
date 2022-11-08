@@ -1,4 +1,4 @@
-package day5_LC495;
+package day005_LC495;
 
 /**
  * @Classname FindPoisonedDuration_wjf
