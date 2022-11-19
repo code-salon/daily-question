@@ -9,7 +9,7 @@ import java.util.Map;
  * @author zhayujie
  * @date 2022/11/19
  */
-public class LongestConsecutive {
+public class LongestConsecutive_yujie {
     public int longestConsecutive(int[] nums) {
         // 集合最大元素数
         int max = 0;
