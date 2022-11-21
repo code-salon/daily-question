@@ -7,7 +7,7 @@ import structure.ListNode;
  * @date 2022/11/20 20:54
  */
 public class Partition_yud1 {
-    
+
     public ListNode partition(ListNode head, int x) {
         ListNode less = new ListNode();
         ListNode more = new ListNode();
